@@ -1,12 +1,12 @@
 .iframe-container {
   overflow: hidden;
-  padding-top: 56.25%;
+  padding-top: 34%;
   position: relative;
 }
 
 .iframe-container iframe {
    border: 0;
-   height: 70%;
+   height: 100%;
    left: 0;
    position: absolute;
    top: 0;
