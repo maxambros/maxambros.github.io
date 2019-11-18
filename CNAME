@@ -1,5 +1,5 @@
 git checkout gh-pages
-rm CNAME
-git add .
-git commit -m “Remove custom domain”
+echo DOMAIN > CNAME
+git add CNAME
+git commit -m “Enable custom domain”
 git push
